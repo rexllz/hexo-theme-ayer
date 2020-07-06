@@ -43,9 +43,9 @@ excerpt_all: true
 # 是否开启代码复制按钮
 copy_btn: true
 # 是否开启文章分享按钮
-share_enable: true
+share_enable: false
 # 国内的社交平台(If you are not in China, maybe you prefer to set:false)
-share_china: true
+share_china: false
 # 文章分享文字
 share_text: share
 
